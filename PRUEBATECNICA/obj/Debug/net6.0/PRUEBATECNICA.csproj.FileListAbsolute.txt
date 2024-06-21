@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\bin\Debug\net6.0\PRUEBATECNICA.exe
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\bin\Debug\net6.0\PRUEBATECNICA.deps.json
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\bin\Debug\net6.0\PRUEBATECNICA.runtimeconfig.json
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\bin\Debug\net6.0\PRUEBATECNICA.dll
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\bin\Debug\net6.0\PRUEBATECNICA.pdb
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\obj\Debug\net6.0\PRUEBATECNICA.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\obj\Debug\net6.0\PRUEBATECNICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\obj\Debug\net6.0\PRUEBATECNICA.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\obj\Debug\net6.0\PRUEBATECNICA.AssemblyInfo.cs
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\obj\Debug\net6.0\PRUEBATECNICA.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\obj\Debug\net6.0\PRUEBATECNICA.dll
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\obj\Debug\net6.0\refint\PRUEBATECNICA.dll
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\obj\Debug\net6.0\PRUEBATECNICA.pdb
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\obj\Debug\net6.0\PRUEBATECNICA.genruntimeconfig.cache
+C:\Users\usuario\Documents\Proyectos de visual Studio Code\Prueba_Tecnica\PRUEBATECNICA\PRUEBATECNICA\obj\Debug\net6.0\ref\PRUEBATECNICA.dll
